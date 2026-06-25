@@ -4,7 +4,7 @@ Detailed report with setup, commands, screenshots, and findings is available her
 [View Full Report](./Bettercap_Network_Penetration_Testing_Report.pdf)
 
 ## 📌 Project Overview
-This project demonstrates how Man-in-the-Middle (MitM) attacks, ARP Spoofing, and SSL Stripping are conducted within a controlled virtual environment. Using **Bettercap** and **Kali Linux**, this lab evaluates network vulnerabilities and analyzes the behavior of secure vs. unsecure protocols.
+This project demonstrates how Man-in-the-Middle (MitM) attacks, ARP Spoofing, and SSL Stripping are conducted within a controlled virtual environment. Using **Bettercap** and **Kali Linux**, this lab evaluates network vulnerabilities and analyzes the behavior of secure vs. insecure protocols.
 
 ## 🛠️ Tools & Technologies Used
 * **Attacker OS:** Kali Linux
@@ -30,5 +30,12 @@ This project demonstrates how Man-in-the-Middle (MitM) attacks, ARP Spoofing, an
 - Demonstrated SSL stripping limitations on HSTS-enabled websites
 - Captured network packets using Wireshark
 
+## Skills Demonstrated
+- Network Penetration Testing
+- MITM Attack Simulation
+- ARP Spoofing
+- Traffic Analysis
+- Security Mitigation
+  
 ---
 *Note: This project was conducted strictly for educational and ethical hacking purposes in an isolated lab network.*
