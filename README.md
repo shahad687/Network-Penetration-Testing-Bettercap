@@ -1,4 +1,7 @@
 # Network Penetration Testing Lab (Bettercap)
+Detailed report with setup, commands, screenshots, and findings is available here:
+
+[View Full Report](./Bettercap_Network_Penetration_Testing_Report.pdf)
 
 ## 📌 Project Overview
 This project demonstrates how Man-in-the-Middle (MitM) attacks, ARP Spoofing, and SSL Stripping are conducted within a controlled virtual environment. Using **Bettercap** and **Kali Linux**, this lab evaluates network vulnerabilities and analyzes the behavior of secure vs. unsecure protocols.
