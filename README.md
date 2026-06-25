@@ -24,5 +24,11 @@ This project demonstrates how Man-in-the-Middle (MitM) attacks, ARP Spoofing, an
 * Enforcing Strict Transport Security (HSTS) on websites.
 * Utilizing End-to-End Encryption and secure VPNs on public networks.
 
+## Key Findings
+- Successfully performed ARP spoofing attack
+- Intercepted HTTP traffic
+- Demonstrated SSL stripping limitations on HSTS-enabled websites
+- Captured network packets using Wireshark
+
 ---
 *Note: This project was conducted strictly for educational and ethical hacking purposes in an isolated lab network.*
